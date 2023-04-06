@@ -1,0 +1,29 @@
+[33mcommit 983de5b10e7e5528f95b7ecc73aa8c2b884044d4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Rustam <rustam_karimov2@outlook.com>
+Date:   Thu Apr 6 15:48:44 2023 -0500
+
+    add file 3
+
+[33mcommit 53638872bd21e3ae7ba750cd24b4d10361b149b0[m
+Author: Rustam <rustam_karimov2@outlook.com>
+Date:   Thu Apr 6 13:31:44 2023 -0500
+
+    change file2
+
+[33mcommit 8921d51bfcdd883551e16d37c6fd16e0deb9c526[m
+Author: Rustam <rustam_karimov2@outlook.com>
+Date:   Thu Apr 6 13:31:18 2023 -0500
+
+    change file2
+
+[33mcommit 61d9cd2e4f61f9a363ade7c57820eec2e0ee715c[m
+Author: Rustam <rustam_karimov2@outlook.com>
+Date:   Thu Apr 6 13:05:54 2023 -0500
+
+    change file1 and add file2
+
+[33mcommit 400cf36b03702595f0594cffd58c7c9c33d97d33[m
+Author: Rustam <rustam_karimov2@outlook.com>
+Date:   Thu Apr 6 13:02:41 2023 -0500
+
+    Add file_1
